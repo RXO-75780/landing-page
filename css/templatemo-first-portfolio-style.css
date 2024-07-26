@@ -1321,6 +1321,7 @@ footer p {
 
 footer .social-links {
   margin: 10px 0;
+  cursor: pointer;
 }
 
 .footer-icon {
